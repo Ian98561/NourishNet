@@ -1,6 +1,6 @@
 Nourish-Net is an app concept that would help restaurants, grocery stores, and food banks collaborate to reduce food waste. By sharing surplus food inventories through this system, businesses can donate food they plan to discard, while nearby food banks can claim and redistribute it to those in need. Nourish-Net provides a sustainable solution to combat food waste and support food security in local communities.
 
-*Created in a group with David Hinojosa, Darian Jaiyesimi, and Myself
+*Created in a group with David Hinojosa, Darian Jaiyesimi, and Myself (Ian Hoell)
 
 **Features**
 
