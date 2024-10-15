@@ -1,0 +1,313 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS D:\UTSA\VS_CODE>  & 'C:\Users\Ian Hoell\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.8.101-hotspot\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Ian Hoell\AppData\Roaming\Code\User\workspaceStorage\6c6d765f974fbec325e0b4ab307fe113\redhat.java\jdt_ws\VS_CODE_81784446\bin' 'Nourish_Net'
+Welcome to Nourish-Net!
+This is the portal for RESTAURANTS and GROCERY STORES.
+Please, enter the number of FOOD ITEMS for the database (Max 100) : 15
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 1
+Food Item 1: N/A     Expected Expiration Date: N/A     Earliest Pickup Date: N/A
+Enter your Food Item: 
+Pancake Mix
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 05/25/2026
+You entered a valid date: 05/25/2026        
+Enter the Earliest Pickup Date(MM/DD/YYYY): 12/6/2023
+Invalid date format. Please enter a date in MM/DD/YYYY format.
+Enter the Earliest Pickup Date(MM/DD/YYYY): 12/06/2023
+You entered a valid date: 12/06/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 2
+Food Item 2: N/A     Expected Expiration Date: N/A     Earliest Pickup Date: N/A
+Enter your Food Item: 
+Chicken Nuggets
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 05/23/2025
+You entered a valid date: 05/23/2025        
+Enter the Earliest Pickup Date(MM/DD/YYYY): 11/14/2023
+You entered a valid date: 11/14/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 3
+Food Item 3: N/A     Expected Expiration Date: N/A     Earliest Pickup Date: N/A
+Enter your Food Item:
+FLour
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 12/03/2026
+You entered a valid date: 12/03/2026
+Enter the Earliest Pickup Date(MM/DD/YYYY): 11/14/2023
+You entered a valid date: 11/14/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 3
+Food Item 3: FLour     Expected Expiration Date: 12/03/2026     Earliest Pickup Date: 11/14/2023
+Enter your Food Item:
+Flour
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 12/07/2027
+You entered a valid date: 12/07/2027
+Enter the Earliest Pickup Date(MM/DD/YYYY): 11/14/2023
+You entered a valid date: 11/14/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 4
+Food Item 4: N/A     Expected Expiration Date: N/A     Earliest Pickup Date: N/A
+Enter your Food Item:
+Olive Oil
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 5/02/2030
+Invalid date format. Please enter a date in MM/DD/YYYY format.
+Enter the Expected Expiration Date(MM/DD/YYYY): 05/02/2030
+You entered a valid date: 05/02/2030
+Enter the Earliest Pickup Date(MM/DD/YYYY): 11/14/2023
+You entered a valid date: 11/14/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 5
+Food Item 5: N/A     Expected Expiration Date: N/A     Earliest Pickup Date: N/A
+Enter your Food Item:
+Cereal
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 03/16/2024
+You entered a valid date: 03/16/2024
+Enter the Earliest Pickup Date(MM/DD/YYYY): 11/14/2023
+You entered a valid date: 11/14/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 6
+Food Item 6: N/A     Expected Expiration Date: N/A     Earliest Pickup Date: N/A
+Enter your Food Item:
+Milk
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 11/18/2023
+You entered a valid date: 11/18/2023
+Enter the Earliest Pickup Date(MM/DD/YYYY): 11/14/2023
+You entered a valid date: 11/14/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 6
+Food Item 6: Milk     Expected Expiration Date: 11/18/2023     Earliest Pickup Date: 11/14/2023
+Enter your Food Item:
+Milk
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 11/20/2023
+You entered a valid date: 11/20/2023
+Enter the Earliest Pickup Date(MM/DD/YYYY): 11/14/2023
+You entered a valid date: 11/14/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 7
+Food Item 7: N/A     Expected Expiration Date: N/A     Earliest Pickup Date: N/A
+Enter your Food Item:
+Rice 
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 06/18/2025
+You entered a valid date: 06/18/2025
+Enter the Earliest Pickup Date(MM/DD/YYYY): 12/18/2023
+You entered a valid date: 12/18/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 8
+Food Item 8: N/A     Expected Expiration Date: N/A     Earliest Pickup Date: N/A
+Enter your Food Item:
+Corndogs
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 12/24/23
+Invalid date format. Please enter a date in MM/DD/YYYY format.
+Enter the Expected Expiration Date(MM/DD/YYYY): 11/23/2023
+You entered a valid date: 11/23/2023
+Enter the Earliest Pickup Date(MM/DD/YYYY): 10/14/2023 
+You entered a valid date: 10/14/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 9
+Food Item 9: N/A     Expected Expiration Date: N/A     Earliest Pickup Date: N/A
+Enter your Food Item:
+Spiral Noodles
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 06/23/2023
+You entered a valid date: 06/23/2023
+Enter the Earliest Pickup Date(MM/DD/YYYY): 11/14/2023
+You entered a valid date: 11/14/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 10
+Food Item 10: N/A     Expected Expiration Date: N/A     Earliest Pickup Date: N/A
+Enter your Food Item:
+Coke 
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 06/19/2024
+You entered a valid date: 06/19/2024
+Enter the Earliest Pickup Date(MM/DD/YYYY): 04/14/2024 
+You entered a valid date: 04/14/2024
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 11
+Food Item 11: N/A     Expected Expiration Date: N/A     Earliest Pickup Date: N/A
+Enter your Food Item:
+Sprite
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 07/14/2024
+You entered a valid date: 07/14/2024
+Enter the Earliest Pickup Date(MM/DD/YYYY): 11/14/2023 
+You entered a valid date: 11/14/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 12
+Food Item 12: N/A     Expected Expiration Date: N/A     Earliest Pickup Date: N/A
+Enter your Food Item:
+Raw Steak
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 08/24/2024
+You entered a valid date: 08/24/2024
+Enter the Earliest Pickup Date(MM/DD/YYYY): 06/14/2023 
+You entered a valid date: 06/14/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 13
+Food Item 13: N/A     Expected Expiration Date: N/A     Earliest Pickup Date: N/A
+Enter your Food Item:
+Lettuce
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 09/14/2024
+You entered a valid date: 09/14/2024
+Enter the Earliest Pickup Date(MM/DD/YYYY): 07/14/2024 
+You entered a valid date: 07/14/2024
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 14
+Food Item 14: N/A     Expected Expiration Date: N/A     Earliest Pickup Date: N/A
+Enter your Food Item:
+Eggs    
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 12/23/2023
+You entered a valid date: 12/23/2023
+Enter the Earliest Pickup Date(MM/DD/YYYY): 12/14/2023 
+You entered a valid date: 12/14/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 1
+
+Enter the Food Item Number you want to Add/Update: 15
+Food Item 15: N/A     Expected Expiration Date: N/A     Earliest Pickup Date: N/A
+Enter your Food Item:
+Tomatoes
+
+Enter the Expected Expiration Date(MM/DD/YYYY): 12/28/2023
+You entered a valid date: 12/28/2023
+Enter the Earliest Pickup Date(MM/DD/YYYY): 12/14/2023 
+You entered a valid date: 12/14/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 2
+
+List of Food Items To Be Donated:
+Food Item 1: Pancake Mix         Expected Expiration Date: 05/25/2026    Earliest Pickup Date: 12/06/2023
+Food Item 2: Chicken Nuggets     Expected Expiration Date: 05/23/2025    Earliest Pickup Date: 11/14/2023
+Food Item 3: Flour       Expected Expiration Date: 12/07/2027    Earliest Pickup Date: 11/14/2023
+Food Item 4: Olive Oil   Expected Expiration Date: 05/02/2030    Earliest Pickup Date: 11/14/2023
+Food Item 5: Cereal      Expected Expiration Date: 03/16/2024    Earliest Pickup Date: 11/14/2023
+Food Item 6: Milk        Expected Expiration Date: 11/20/2023    Earliest Pickup Date: 11/14/2023
+Food Item 7: Rice        Expected Expiration Date: 06/18/2025    Earliest Pickup Date: 12/18/2023
+Food Item 8: Corndogs    Expected Expiration Date: 11/23/2023    Earliest Pickup Date: 10/14/2023
+Food Item 9: Spiral Noodles      Expected Expiration Date: 06/23/2023    Earliest Pickup Date: 11/14/2023
+Food Item 10: Coke       Expected Expiration Date: 06/19/2024    Earliest Pickup Date: 04/14/2024
+Food Item 11: Sprite     Expected Expiration Date: 07/14/2024    Earliest Pickup Date: 11/14/2023
+Food Item 12: Raw Steak  Expected Expiration Date: 08/24/2024    Earliest Pickup Date: 06/14/2023
+Food Item 13: Lettuce    Expected Expiration Date: 09/14/2024    Earliest Pickup Date: 07/14/2024
+Food Item 14: Eggs       Expected Expiration Date: 12/23/2023    Earliest Pickup Date: 12/14/2023
+Food Item 15: Tomatoes   Expected Expiration Date: 12/28/2023    Earliest Pickup Date: 12/14/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 3
+
+Enter the Food Item Number you would like to Delete: 9
+Food Item at 9 Deleted.
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 2
+
+List of Food Items To Be Donated:
+Food Item 1: Pancake Mix         Expected Expiration Date: 05/25/2026    Earliest Pickup Date: 12/06/2023
+Food Item 2: Chicken Nuggets     Expected Expiration Date: 05/23/2025    Earliest Pickup Date: 11/14/2023
+Food Item 3: Flour       Expected Expiration Date: 12/07/2027    Earliest Pickup Date: 11/14/2023
+Food Item 4: Olive Oil   Expected Expiration Date: 05/02/2030    Earliest Pickup Date: 11/14/2023
+Food Item 5: Cereal      Expected Expiration Date: 03/16/2024    Earliest Pickup Date: 11/14/2023
+Food Item 6: Milk        Expected Expiration Date: 11/20/2023    Earliest Pickup Date: 11/14/2023
+Food Item 7: Rice        Expected Expiration Date: 06/18/2025    Earliest Pickup Date: 12/18/2023
+Food Item 8: Corndogs    Expected Expiration Date: 11/23/2023    Earliest Pickup Date: 10/14/2023
+Food Item 9: N/A         Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+Food Item 10: Coke       Expected Expiration Date: 06/19/2024    Earliest Pickup Date: 04/14/2024
+Food Item 11: Sprite     Expected Expiration Date: 07/14/2024    Earliest Pickup Date: 11/14/2023
+Food Item 12: Raw Steak  Expected Expiration Date: 08/24/2024    Earliest Pickup Date: 06/14/2023
+Food Item 13: Lettuce    Expected Expiration Date: 09/14/2024    Earliest Pickup Date: 07/14/2024
+Food Item 14: Eggs       Expected Expiration Date: 12/23/2023    Earliest Pickup Date: 12/14/2023
+Food Item 15: Tomatoes   Expected Expiration Date: 12/28/2023    Earliest Pickup Date: 12/14/2023
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 4
+
+Cleared Food List
+
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 2
+
+List of Food Items To Be Donated:
+Food Item 1: N/A         Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+Food Item 2: N/A         Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+Food Item 3: N/A         Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+Food Item 4: N/A         Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+Food Item 5: N/A         Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+Food Item 6: N/A         Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+Food Item 7: N/A         Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+Food Item 8: N/A         Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+Food Item 9: N/A         Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+Food Item 10: N/A        Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+Food Item 11: N/A        Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+Food Item 12: N/A        Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+Food Item 13: N/A        Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+Food Item 14: N/A        Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+Food Item 15: N/A        Expected Expiration Date: N/A   Earliest Pickup Date: N/A
+MAIN MENU
+0 - EXIT, 1 - ADD/UPDATE FOOD ITEM, 2 - SHOW FOOD LIST, 3 - DELETE FOOD ITEM, 4 - CLEAR LIST
+Select an option : 0
+
+Thank you for using Nourish-Net! Your food list will be sent out to the nearest food bank for distribution.
